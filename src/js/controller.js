@@ -10,10 +10,6 @@ import addRecipeView from './views/addRecipeView.js';
 import 'core-js/stable';
 import 'regenerator-runtime/runtime';
 
-// if (module.hot) {
-//   module.hot.accept();
-// }
-
 // https://forkify-api.herokuapp.com/v2
 
 const controlRecipes = async function () {
